@@ -1,1 +1,1 @@
-# JavaScriptPrac
+# Calculate Salary (Javascript)
